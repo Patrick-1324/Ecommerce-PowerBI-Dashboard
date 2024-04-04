@@ -60,5 +60,5 @@ In the dynamic e-commerce landscape, understanding customer preferences, purchas
 
 ## Demo
 
-![Dashboard Demo](https://drive.google.com/file/d/1hJSAP0QI_JaV1ogOHP0Rtrfc5sevTNKc/view?usp=sharing)
+![Ecommerce-powerbi-dashboard](https://github.com/Patrick-1324/Ecommerce-PowerBI-Dashboard/assets/59449931/4e91340f-d96d-4213-b694-5e6cecbd1dd6)
 
