@@ -14,10 +14,6 @@ In the dynamic e-commerce landscape, understanding customer preferences, purchas
 - Development of actionable insights to optimize e-commerce strategies and improve customer engagement.
 
 
-
-
-
-
 ## 🛠 Skills
 - Python
 - Pandas
@@ -58,5 +54,8 @@ In the dynamic e-commerce landscape, understanding customer preferences, purchas
 
     There has been a steady increase in total sales each year, with the largest year-over-year increase between July 2023 and January 2024.
     The High Spend tier shows a positive trend in terms of order frequency over the years, suggesting the potential for growth by targeting and nurturing high-value customer segments.
+
+## Demo
+![Ecommerce-powerbi-dashboard](https://github.com/Patrick-1324/Ecommerce-PowerBI-Dashboard/assets/59449931/cfd3d005-3996-4f14-aed5-f4ce5b36566c)
 
 
