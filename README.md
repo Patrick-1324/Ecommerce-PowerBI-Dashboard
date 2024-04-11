@@ -1,3 +1,4 @@
+![Screenshot 2024-04-11 222240](https://github.com/Patrick-1324/Ecommerce-PowerBI-Dashboard/assets/59449931/dda46f24-7ec0-4c17-8018-48249af99eb3)
 
 # Ecommerce Power BI Dashboard
 
@@ -58,7 +59,4 @@ In the dynamic e-commerce landscape, understanding customer preferences, purchas
     There has been a steady increase in total sales each year, with the largest year-over-year increase between July 2023 and January 2024.
     The High Spend tier shows a positive trend in terms of order frequency over the years, suggesting the potential for growth by targeting and nurturing high-value customer segments.
 
-## Demo
-
-![Ecommerce-powerbi-dashboard](https://github.com/Patrick-1324/Ecommerce-PowerBI-Dashboard/assets/59449931/4e91340f-d96d-4213-b694-5e6cecbd1dd6)
 
